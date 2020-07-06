@@ -32,7 +32,7 @@ jobs:
         cmd: install
       
     - name: Build
-      run: npm run build
+      run: npm build
       
     - name: Installing surge
       run: sudo npm install -g surge

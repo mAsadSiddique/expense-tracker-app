@@ -30,7 +30,7 @@ function Transcation() {
         onSubmit = { handleAddition } >
         <
         label >
-        Enter Discription < br / >
+        Enter Description < br / >
         <
         input type = "text"
         placeholder = "Description"

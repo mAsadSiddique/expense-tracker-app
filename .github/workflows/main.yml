@@ -31,7 +31,7 @@ jobs:
     - name: Build
       run: npm run build
       
-    - name: Inatalling surge
+    - name: Installing surge
       run: sudo npm install -g surge
       
     - name: Deploying on Surge
